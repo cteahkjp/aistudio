@@ -1,0 +1,6 @@
+{
+  "name": "Hong Kong Weather",
+  "description": "Real-time 7-day weather forecast and current meteorological observations in Hong Kong, sourced directly from the Hong Kong Observatory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
